@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Thu Dec 07 16:10:10 GMT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-31bd-cbb5-000005eae6d0 
-on database directory C:\Users\luiz.santos\spring_batch\safari-course\3-writer\itemWriter\data\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
-Loaded from file:/C:/Users/luiz.santos/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.13.1.1/29c42babe5c5463c6eea45487d3cfbfe8348ccd1/derby-10.13.1.1.jar
+Sat Dec 09 09:59:29 GMT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-3ab7-26f3-00000df32af8 
+on database directory C:\Users\Luiz Claudio Santos\luizsan\study\spring-batch\safari-course\springBatchExamples\3-writer\itemWriter\data\db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Luiz%20Claudio%20Santos/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.13.1.1/29c42babe5c5463c6eea45487d3cfbfe8348ccd1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_144-b01
-user.dir=C:\Users\luiz.santos\spring_batch\safari-course\3-writer\itemWriter
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\Luiz Claudio Santos\luizsan\study\spring-batch\safari-course\springBatchExamples\3-writer\itemWriter
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0

@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @EnableBatchProcessing
-public class StatefulReaderApplication {
+public class 	StatefulReaderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StatefulReaderApplication.class, args);
